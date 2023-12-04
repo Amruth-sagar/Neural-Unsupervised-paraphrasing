@@ -16,4 +16,4 @@ This project aims to generate paraphrases by corrupting a sentence and reconstru
 ## Problem statement
 Given a sentence in natural language, we aim to generate a new sentence with the same meaning but a different language structure in an unsupervised setting.
 
-Refer to the [Report](https://github.com/Amruth-sagar/Neural-Unsupervised-paraphrasing/blob/main/report/IIITH_NLP_Project.pdf) for detailed report.
+Refer to the [Report](https://github.com/Amruth-sagar/Neural-Unsupervised-paraphrasing/blob/main/report/IIITH_NLP_Project.pdf).
