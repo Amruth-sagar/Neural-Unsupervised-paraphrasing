@@ -6,7 +6,7 @@ Ground truth and then perform an end-to-end supervised training of transformers 
 scratch. We used four different corruption techniques, making our model more
 robust.
 
-## Introduction
+## What is paraphrasing
 - Paraphrasing is rewriting a given sentence in other words or forms without losing the meaning of the original sentence. 
 - Paraphrasing can be achieved via training a deep sequence to sequence models, like RNN, LSTMs, Transformers, etc, in a supervised setting.
 - Creating supervised datasets for paraphrasing is both time-consuming and expensive.
@@ -16,4 +16,4 @@ This project aims to generate paraphrases by corrupting a sentence and reconstru
 ## Problem statement
 Given a sentence in natural language, we aim to generate a new sentence with the same meaning but a different language structure in an unsupervised setting.
 
-Refer to the [Report] for detailed report.
+Refer to the [Report](https://github.com/Amruth-sagar/Neural-Unsupervised-paraphrasing/blob/main/report/IIITH_NLP_Project.pdf) for detailed report.
